@@ -1,0 +1,36 @@
+body{
+    background-image: linear-gradient(to right,rgb(170, 242, 139),rgb(124, 224, 216));
+}
+
+
+.a{
+
+    font-family: monospace;
+    font-weight: 200px;
+
+
+}
+.a1{
+    border-color:  solid red 10 px;
+    border-radius: 0px 50px 0px;
+    /* line-height: 1.5;
+    letter-spacing: 10px; */
+}
+.a2{
+    border-color:  solid red 10 px;
+    border-radius: 0px 50px 0px;
+    /* line-height: 1.5;
+    letter-spacing: 10px; */
+}
+.a3{
+    border-color:  solid red 10 px;
+    border-radius: 0px 50px 0px;
+    /* line-height: 1.5;
+    letter-spacing: 10px; */
+}
+.a4{
+    border-color:  solid red 10 px;
+    border-radius: 0px 50px 0px;
+    /* line-height: 1.5;
+    letter-spacing: 10px; */
+}

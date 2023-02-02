@@ -1,0 +1,44 @@
+h1{
+    justify-content: center;
+    text-align: center;
+    font-family: monospace;
+    
+    font-weight: 200;
+    
+    margin: 1%;
+    padding: 1%;
+    font-size: 40px;
+
+}
+.about{
+
+     text-align: center;
+    font-family: sans-serif;
+     font-size: 20px;
+    font-weight:500;
+     line-height:1.5 ;
+     word-spacing: 5px;
+    margin: 25px;
+    padding: 25px;
+}
+body {
+    background-image: linear-gradient(to right ,rgb(170, 242, 139)
+
+    , rgb(124, 224, 216));
+  }
+  footer{
+    text-align: center;
+    background-color: rgba(45, 251, 165, 0.274);
+    width:100vw;
+  }
+  .w{
+    width:100vw;
+    margin: 20px;
+    padding: 20px;
+  }
+  
+  .rajveer{
+    display: flex;
+    justify-content: space-around;
+    font-size: 20px;
+  }

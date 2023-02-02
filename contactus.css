@@ -1,0 +1,35 @@
+body {
+    background-image: linear-gradient(to right ,rgb(170, 242, 139),rgb(124, 224, 216));
+  }
+.contact{
+    margin :3% 3% 3% 3%;
+    padding: 1%;
+    font-weight: 100;
+    color:blueviolet;
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
+    font-size: 20;
+    align-items: center;
+    justify-content:center;
+}
+
+.form{
+    margin :3% ;
+    padding: 1%;
+}
+.text{
+    margin :3% ;
+    padding: 1%;
+    font-size: 20px;
+
+}
+.button{
+    margin :3% ;
+    padding: 1%;
+    font-size: 20px;
+
+
+}
+.container{
+    align-items: center;
+
+}
